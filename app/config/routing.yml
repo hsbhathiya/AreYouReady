@@ -1,0 +1,8 @@
+are_you_ready_company:
+    resource: "@AreYouReadyCompanyBundle/Resources/config/routing.yml"
+    prefix:   /
+
+are_you_ready_profile:
+    resource: "@AreYouReadyProfileBundle/Resources/config/routing.yml"
+    prefix:   /
+

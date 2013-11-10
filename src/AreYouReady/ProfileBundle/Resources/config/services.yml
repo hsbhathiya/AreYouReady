@@ -1,0 +1,7 @@
+parameters:
+#    are_you_ready_profile.example.class: AreYouReady\ProfileBundle\Example
+
+services:
+#    are_you_ready_profile.example:
+#        class: %are_you_ready_profile.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

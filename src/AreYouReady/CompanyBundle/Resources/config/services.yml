@@ -1,0 +1,7 @@
+parameters:
+#    are_you_ready_company.example.class: AreYouReady\CompanyBundle\Example
+
+services:
+#    are_you_ready_company.example:
+#        class: %are_you_ready_company.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
